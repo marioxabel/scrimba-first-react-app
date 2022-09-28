@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 91px ;
+    width: 100%;
+    color: #DEEBF8;
+    background-color: #21222A;
+    padding: 20px;
+}
+
+.blueHeader {
+    display: flex;
+    align-items: center;
+    color: #61DAFB;
+}
+
+.blueHeader > h2 {
+    padding: 10px;
+}
+
+.blueHeader > img {
+    width: 40px;
+}
